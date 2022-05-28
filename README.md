@@ -8,15 +8,23 @@ We have created various models to predict prospective user ratings for unread bo
   
   
     •	Poetry dataset download link(https://drive.google.com/uc?id=17G5_MeSWuhYnD4fGJMvKRSOlBqCCimxJ)
+    
+    
       i.	Downloads goodreads_interactions_poetry.json.gz 
 
     •	Book genres data download link(https://drive.google.com/uc?id=1ah0_KpUterVi-AHxJ03iKD6O0NfbK0md)
+    
+    
       i.	Downloads gooreads_book_genres_initial.json.gz
 
     •	User_id map download link(https://drive.google.com/uc?id=15ax-h0Oi_Oyee8gY_aAQN6odoijmiz6Q)
+    
+    
       i.	Downloads user_id_map.csv
 
     •	Book_id map download link(https://drive.google.com/uc?id=1CHTAaNwyzvbi1TR08MJrJ03BxA266Yxr)
+    
+    
       i.	Downloads book_id_map.csv
 
   •	Data Preprocessing: 
