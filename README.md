@@ -4,28 +4,28 @@ We have created various models to predict prospective user ratings for unread bo
 
 
 1.	Data extraction
-  •	Data Download: Goodreads poetry dataset 
-    •	Poetry dataset download link
+  •	Data Download: Goodreads poetry dataset (https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home)
+    •	Poetry dataset download link(https://drive.google.com/uc?id=17G5_MeSWuhYnD4fGJMvKRSOlBqCCimxJ)
       i.	Downloads goodreads_interactions_poetry.json.gz 
 
-    •	Book genres data download link
+    •	Book genres data download link(https://drive.google.com/uc?id=1ah0_KpUterVi-AHxJ03iKD6O0NfbK0md)
       i.	Downloads gooreads_book_genres_initial.json.gz
 
-    •	User_id map download link
+    •	User_id map download link(https://drive.google.com/uc?id=15ax-h0Oi_Oyee8gY_aAQN6odoijmiz6Q)
       i.	Downloads user_id_map.csv
 
-    •	Book_id map download link
+    •	Book_id map download link(https://drive.google.com/uc?id=1CHTAaNwyzvbi1TR08MJrJ03BxA266Yxr)
       i.	Downloads book_id_map.csv
 
-•	Data Preprocessing: 
-  •	Notebook used – preprocessing.ipynb 
+  •	Data Preprocessing: 
+    •	Notebook used – preprocessing.ipynb 
 
-    i.	Generates the following files 
-      •	interactions.csv
-      •	Interactions_full.csv
-      •	Interactions_genres.csv
-      •	user matrix factorized embeddings - ‘user.pickle’
-      •	Book matrix factorized embeddings - ‘book.pickle’
+      i.	Generates the following files 
+        •	interactions.csv
+        •	Interactions_full.csv
+        •	Interactions_genres.csv
+        •	user matrix factorized embeddings - ‘user.pickle’
+        •	Book matrix factorized embeddings - ‘book.pickle’
 
 2. Item-Item CF
   •	Datasets:
