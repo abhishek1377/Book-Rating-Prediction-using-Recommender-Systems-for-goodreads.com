@@ -5,6 +5,8 @@ We have created various models to predict prospective user ratings for unread bo
 
 1.	Data extraction
   •	Data Download: Goodreads poetry dataset (https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home)
+  
+  
     •	Poetry dataset download link(https://drive.google.com/uc?id=17G5_MeSWuhYnD4fGJMvKRSOlBqCCimxJ)
       i.	Downloads goodreads_interactions_poetry.json.gz 
 
